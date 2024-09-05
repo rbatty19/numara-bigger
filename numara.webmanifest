@@ -14,5 +14,7 @@
       "src": "assets/icon-512.png",
       "type": "image/png"
     }
-  ]
+  ],
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
 }
